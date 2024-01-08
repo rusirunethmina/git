@@ -25,7 +25,7 @@ const App = () => {
 						A Computer Science portal for geeks. 
 						It contains well written, well thought 
 						and well explained computer science 
-						and programming articles 
+						and programming articles  fdfdffdfdfdfdf
 					</Text> 
 				</View> 
 			</View> 
